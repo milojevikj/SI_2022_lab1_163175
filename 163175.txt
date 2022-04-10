@@ -1,0 +1,21 @@
+1.
+2.
+3.
+4. git clone [линкот]
+5. За оваа точна е искористена git commit shopping_list.txt
+6.Git add, па после Git commit -m "Add 5 items to the shopping list"
+7.git branch branch1, git branch branch2 
+8.
+9. git push, git chechout branch1, git push, git checkout branch2, gut push
+10. checkout branch1
+11.git add, git commit -m “Change quantity of item #5”.
+12. git checkout master
+13. git add, git commit -m “Change quantity of item #2”
+14. git push, git chechout branch1, git push, git checkout branch2, gut push
+15. checkout branch2
+16. git add, git commit -m “Modify item #4”
+17.
+18. git add, git commit --amend -m "Modify item #4 and add item #6"
+19.
+20. git checkout master, git merge branch1
+21. git merge branch2, се јавува конфликт, локално во фајлот ги сменив ставките
